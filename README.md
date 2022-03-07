@@ -29,7 +29,7 @@ The techniques chosen for the analysis are described below. They are classified 
   <li><strong>Privacy and security</strong>: in this category two techniques were chosen. Regarding the personal information answers and conversation history, “Data from cloud storage object” is selected again. Going on to the authentication methods, if the user accesses the device via the web, he could be affected by the “Steal web session cookie” technique obtaining its access credentials. However, results show that it is not often used by the selected groups.</li>
 </ul>
   
-<p align="right">(<a href="https://soniasoleracotanilla.github.io/Tests/">Back Testing</a>)</p>
+<p align="right">(<a href="https://rayuelaproject.github.io/Tests/">Back Testing</a>)</p>
 
 </div>
 
@@ -42,6 +42,6 @@ In summary, four frequently used techniques are remarked. “Phishing for inform
 
 The remaining one, “External remote services”, shows both poor visibility and detection coverage.
 
-<p align="right">(<a href="https://soniasoleracotanilla.github.io/Tests/">Back Testing</a>)</p>
+<p align="right">(<a href="https://rayuelaproject.github.io/Tests/">Back Testing</a>)</p>
 
 </div>
